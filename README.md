@@ -283,40 +283,6 @@ Engineering production-quality backend systems independently — from requiremen
 
 ---
 
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Shree2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shree2004&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=6D28D9&area=true&area_color=5B21B6&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ◈ Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shree2004/Shree2004/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shree2004/Shree2004/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Shree2004/Shree2004/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## ◈ Current Focus
 
 ```yaml
