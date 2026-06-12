@@ -248,31 +248,6 @@ Engineering production-quality backend systems independently — from requiremen
 
 ---
 
-## ◈ Certifications
-
-<div align="center">
-
-#### ☁️ Amazon Web Services
-[![AWS Academy](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/training/awsacademy/)
-&nbsp;
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-
-#### 🔷 Oracle
-[![Oracle](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
-
-#### 📘 Cisco
-[![Cisco](https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-&nbsp;
-[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-
-#### 🎓 NPTEL
-[![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Java-0C2D83?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
-&nbsp;
-[![NPTEL](https://img.shields.io/badge/NPTEL-Database%20Management%20Systems-0C2D83?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
-
-</div>
-
----
 
 ## ◈ Coding Profiles
 
