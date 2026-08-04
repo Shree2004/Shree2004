@@ -61,3 +61,16 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/Shree2004/Shree2004/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 data-importer="text" align="left">Social Profiles</h2>
+
+[![Gmail](https://img.shields.io/badge/Email-shreeshinde3007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeshinde3007@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shree-shinde-7b0106285/)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-shree__shinde__21-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shree_shinde_21/)
+&nbsp;&nbsp;
+
+</div>
+
+###
