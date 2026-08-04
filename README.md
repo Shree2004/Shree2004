@@ -54,13 +54,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 </div>
 
-###
-
-<h2 data-importer="text" align="left">Contribution Activity</h2>
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Shree2004/Shree2004/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 data-importer="text" align="left">Social Profiles</h2>
 
