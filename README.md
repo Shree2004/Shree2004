@@ -56,6 +56,8 @@
 
 ###
 
+<h2 align="center">📈 Contribution Activity</h2>
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/Shree2004/Shree2004/snake-output/snake.svg" alt="Snake animation" />
 
 ###
